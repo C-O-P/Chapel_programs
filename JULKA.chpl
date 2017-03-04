@@ -1,3 +1,5 @@
+/* problem link - http://www.spoj.com/problems/JULKA/ 
+
 for i in 1..10 {
     var apples = read(int);
     var more = read(int);
