@@ -1,3 +1,5 @@
+/* Problem link - http://www.spoj.com/problems/TEST/ */
+
 var x: int;
 
 x = read(int);
