@@ -1,3 +1,5 @@
+/*problem link - http://www.spoj.com/problems/FCTRL2/ */
+
 proc factorial(x: int(64)) : int(64)
 {
     if x == 0 || x == 1 then
