@@ -1,4 +1,6 @@
-/* Primality Test */
+/** Primality Test
+    Problem Link - http://www.spoj.com/submit/PRIME1
+**/
 proc isPrime(n:int): bool {
 	if n <= 3 then return n>1;
 
