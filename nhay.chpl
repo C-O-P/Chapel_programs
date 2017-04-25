@@ -9,7 +9,7 @@ writeln(len);
 var i :int, j :int;
 i = 1;
 j = 1;
-var len_of_haystack :int = 6;
+var len_of_haystack :int = haystack.length;
 
 while(i <= len_of_haystack) {
 	if( haystack[i] == needle[j]) {
